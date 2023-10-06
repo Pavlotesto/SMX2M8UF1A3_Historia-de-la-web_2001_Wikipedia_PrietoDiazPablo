@@ -8,4 +8,4 @@ A pesar de los grandes obstáculos por los que ha pasado Wikipedia como la lucha
 
 Hoy en día, Wikipedia es un recurso esencial para estudiantes, investigadores y cualquier persona que busque información confiable y gratuita en línea. Su historia es un testimonio del poder de la colaboración global y la libre difusión del conocimiento en la era digital
 
-<img src="https://github.com/Pavlotesto/Wikipedia/blob/main/Captura%20de%20pantalla%202023-10-06%20163700.png" alt="Logo" width="250" height="300" />
+<img src="https://github.com/Pavlotesto/Wikipedia/blob/main/Captura%20de%20pantalla%202023-10-06%20163700.png" alt="Logo" width="260" height="300" />
