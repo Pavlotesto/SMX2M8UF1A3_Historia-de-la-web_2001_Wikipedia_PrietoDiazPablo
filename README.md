@@ -6,6 +6,5 @@ Su nombre, una combinación de las palabras "[wiki](https://es.wikipedia.org/wik
 
 A pesar de los grandes obstáculos por los que ha pasado Wikipedia como la lucha contra el vandalismo y la difusión de información errónea, Wikipedia se ha convertido en una fuente invaluable de conocimiento para millones de personas en todo el mundo. Su modelo de edición abierta ha demostrado la capacidad de la comunidad en línea para colaborar de manera constructiva y mantener una enciclopedia precisa y actualizada.
 
-Hoy en día, Wikipedia es un recurso esencial para estudiantes, investigadores y cualquier persona que busque información confiable y gratuita en línea. Su historia es un testimonio del poder de la colaboración global y la libre difusión del conocimiento en la era digital
-
+Hoy en día, Wikipedia es un recurso esencial para estudiantes, investigadores y cualquier persona que busque información confiable y gratuita en línea. 
 <img src="https://github.com/Pavlotesto/Wikipedia/blob/main/Captura%20de%20pantalla%202023-10-06%20163700.png" alt="Logo" width="260" height="300" />
