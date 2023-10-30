@@ -5,4 +5,4 @@
 Su nombre, una combinación de las palabras "[wiki](https://es.wikipedia.org/wiki/Wiki "wiki")" (un tipo de sitio web colaborativo) y "[enciclopedya](https://es.wikipedia.org/wiki/Enciclopedia "enciclopedya")", refleja su enfoque abierto y democrático. A lo largo de los años, Wikipedia ha crecido y ganado mucha fama a nivel mundial, ofreciendo artículos en cientos de idiomas y abarcando una amplia gama de temas.
 
 A pesar de los grandes obstáculos por los que ha pasado Wikipedia como la lucha contra el vandalismo y la difusión de información errónea, Wikipedia se ha convertido en una fuente invaluable de conocimiento para millones de personas en todo el mundo. Su modelo de edición abierta ha demostrado la capacidad de la comunidad en línea para colaborar de manera constructiva y mantener una enciclopedia precisa y actualizada.
-<img src="https://github.com/Pavlotesto/Wikipedia/blob/main/Captura%20de%20pantalla%202023-10-06%20163700.png" alt="Logo" width="260" height="300" />
+<img src="https://github.com/Pavlotesto/Wikipedia/blob/main/Captura%20de%20pantalla%202023-10-06%20163700.png" alt="Logo" width="260" height="300" /> 
